@@ -1,5 +1,5 @@
 {
-  "name": "js-project-8---using-gulp-to-build-a-frontend-website",
+  "name": "using-gulp-to-build-a-frontend-website",
   "version": "1.0.0",
   "description": "Using Gulp",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghir/JS-Project-8---Using-Gulp-To-Build-A-Frontend-Website.git"
+    "url": "git+https://github.com/Ghir/using-gulp-to-build-a-frontend-website.git"
   },
   "author": "Dario Ghirardo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghir/JS-Project-8---Using-Gulp-To-Build-A-Frontend-Website/issues"
+    "url": "https://github.com/Ghir/using-gulp-to-build-a-frontend-website/issues"
   },
-  "homepage": "https://github.com/Ghir/JS-Project-8---Using-Gulp-To-Build-A-Frontend-Website#readme",
+  "homepage": "https://github.com/Ghir/using-gulp-to-build-a-frontend-website#readme",
   "devDependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
-    "gulp-connect": "^5.2.0",
+    "gulp-connect": "^5.7.0",
     "gulp-imagemin": "^4.1.0",
     "gulp-minify-css": "^1.2.4",
     "gulp-rename": "^1.2.2",
