@@ -11,4 +11,4 @@ Setting up a Gulp build process to prepare a website for deployment.
 
 ### Running
 
-- `Gulp`
+- `gulp`
